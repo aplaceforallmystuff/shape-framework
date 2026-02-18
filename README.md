@@ -8,6 +8,8 @@
 
 ---
 
+![The SHAPE Methodology](docs/images/shape-methodology-overview.png)
+
 Most AI pilots succeed. Most scaled implementations fail.
 
 This isn't a technology problem — it's an execution methodology problem. 95% of AI pilots never achieve enterprise-wide deployment. Organizations lose an average of $1.9 million per failed AI initiative. The pilot-to-scale transition kills more AI projects than technical failure.
