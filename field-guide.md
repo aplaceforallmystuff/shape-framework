@@ -8,7 +8,7 @@
 
 Most AI pilots succeed. Most scaled implementations fail.
 
-This isn't a technology problem—it's an execution methodology problem.
+The problem is execution methodology, not technology.
 
 Organizations everywhere face the same pattern: A team runs a successful pilot. AI generates promising results. Leadership gets excited. Then someone says "Let's roll this out company-wide."
 
@@ -19,9 +19,7 @@ Six months later, the initiative is quietly shelved. The pilot worked. The scali
 - Organizations lose an average of $1.9 million per failed AI initiative
 - The pilot-to-scale transition kills more AI projects than technical failure
 
-**The problem isn't strategy.** Most organizations know what they want AI to do. They've defined goals, identified use cases, secured budget.
-
-**The problem is execution methodology.** They lack a systematic approach to move from "this works" to "this works at scale."
+**The problem is execution methodology.** Most organizations know what they want AI to do—they've defined goals, identified use cases, secured budget. What they lack is a systematic approach to move from "this works" to "this works at scale."
 
 ### What SHAPE Provides
 
@@ -570,9 +568,9 @@ The same project needs different translations for different audiences. What reso
 
 ### Why Pilots Succeed and Scaling Fails
 
-Pilots get special attention. Selected users. Close support. Rapid iteration. High visibility.
+Pilots get special attention—selected users, close support, rapid iteration, high visibility.
 
-Scaling gets none of that. Broader user base. Stretched support. Slow iteration. Reduced visibility.
+Scaling gets none of that: broader user base, stretched support, slow iteration, reduced visibility.
 
 **Successful pilots must be systematically scaled, not just copied.**
 
@@ -754,7 +752,7 @@ Integrate AI capabilities with core business processes. This is where competitiv
 
 AI implementation is not a project—it's an ongoing capability development process.
 
-Technology evolves monthly. New tools emerge. User needs change. Competitive landscape shifts. What worked yesterday may not work tomorrow.
+Technology evolves monthly, new tools emerge, user needs change, and what worked yesterday may not work tomorrow.
 
 **Continuous evaluation enables:**
 - Early detection of degrading performance
