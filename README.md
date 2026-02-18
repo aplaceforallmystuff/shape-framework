@@ -3,6 +3,8 @@
 **From Pilots That Stall to Systematic Implementation**
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![GitHub stars](https://img.shields.io/github/stars/aplaceforallmystuff/shape-framework?style=flat-square)](https://github.com/aplaceforallmystuff/shape-framework/stargazers)
+[![Framework](https://img.shields.io/badge/Framework-AI%20Execution-teal)](https://github.com/aplaceforallmystuff/shape-framework)
 
 ---
 
