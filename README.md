@@ -107,6 +107,3 @@ Under the following terms:
 
 Created by [Jim Christian](https://jimchristian.net) — AI implementation specialist, framework creator, and author of [Signal Over Noise](https://signalovernoise.at).
 
-## Contributing
-
-Contributions are welcome. If you've applied SHAPE in your organization and have insights to share, please open an issue or pull request.
